@@ -1,9 +1,10 @@
-# architecting-ai
-Book Companion for Architecting AI Book by Abi Aryan
+# Architecting AI by *Abi Aryan*
+*Book Companion*
+
 <img src="assets/cover.png" alt="Architecting AI" width="=120"/>
 
-Chapter 1. Foundations of AI System Architecture (Coming Soon!)
-*Allows you to build a solid foundation in AI system architecture, GPU fundamentals, and low-level performance engineering.*
+# Chapter 1. Foundations of AI System Architecture (Coming Soon!)
+### *Allows you to build a solid foundation in AI system architecture, GPU fundamentals, and low-level performance engineering.*
 
 Reference Reading:
 1. AI Datacenter Energy Dilemma – Race for AI Datacenter Space. (2024, March 13). SemiAnalysis. https://semianalysis.com/2024/03/13/ai-datacenter-energy-dilemma-race/
