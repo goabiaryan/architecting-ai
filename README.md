@@ -1,6 +1,6 @@
 # architecting-ai
 Book Companion for Architecting AI Book by Abi Aryan
-![Architecting AI](assets/cover.png)
+<img src="assets/cover.png" alt="Architecting AI" width="=120"/>
 
 Chapter 1. Foundations of AI System Architecture (Coming Soon!)
 *Allows you to build a solid foundation in AI system architecture, GPU fundamentals, and low-level performance engineering.*
